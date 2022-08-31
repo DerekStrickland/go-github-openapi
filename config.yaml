@@ -1,0 +1,8 @@
+# File is used by the openapi-generator cli to generate a go client.
+generatorName: go
+gitUserId: DerekStrickland
+gitRepoId: go-github-openapi
+inputSpec: https://raw.githubusercontent.com/github/rest-api-description/main/descriptions/api.github.com/api.github.com.yaml
+outputDir: /local/client
+packageName: github
+packageVersion: 0.0.1
